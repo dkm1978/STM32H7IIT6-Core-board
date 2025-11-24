@@ -1,2 +1,6 @@
 ![baner.jpg](baner_szeroki.jpg)
-![board.jpg[(board.jpg)
+<html>
+  <center>
+    <img src="board.jpg">
+  </center>
+</html>
