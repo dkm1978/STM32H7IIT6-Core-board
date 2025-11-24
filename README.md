@@ -1,2 +1,2 @@
 ![baner.jpg](baner_szeroki.jpg)
-![board.jpg[(boarg.jpg)
+![board.jpg[(board.jpg)
